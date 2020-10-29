@@ -1,6 +1,4 @@
 % Project 3 - Plotting with branches
-% Ahmad Raza
-% CS 109, Fall 2020, Koehler
 
 clear all;
 close all;
